@@ -38,7 +38,7 @@ nav.fixed-top.navbar-top a:hover {
 
 header.jumbotron {
     text-align: center;/*文字置中*/
-    background-image: url(/img/banner.png);
+    background-image: url(../img/banner.png);
     background-position:center;
     background-size: cover; /*左右填滿*/
     background-attachment: fixed; /*固定背景*/
@@ -71,7 +71,7 @@ section#section_ask {
 }
 
 section#section_ask .col-sm-5.img {
-    background-image: url(/img/intro.png);
+    background-image: url(../img/intro.png);
     background-position:center;
     background-size: cover; /*左右填滿*/
     height: 350px; /*沒有高度不會顯示圖片*/
@@ -149,7 +149,7 @@ section#section_future .feature {
 
 footer.jumbotron {
     text-align: center;
-    background-image: url(/img/footer.png);
+    background-image: url(../img/footer.png);
     background-position: right;
     background-size: cover;
     background-attachment: fixed;
