@@ -18,7 +18,7 @@ nav.navbar {
 }
 
 nav.fixed-top{
-    background-color: aliceblue;
+    background-color: rgb(182, 182, 182);
 }
 nav.fixed-top.navbar-top{
     background-color: transparent; /*透明*/
