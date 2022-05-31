@@ -39,12 +39,12 @@ nav.fixed-top.navbar-top a:hover {
 
 header.jumbotron {
     text-align: center;/*文字置中*/
-    background-image: url(../img/banner.png);
+    background-image: url(../img/52112_VLUtRwbf.jpg);
     background-position:center;
     background-size: cover; /*左右填滿*/
     background-attachment: fixed; /*固定背景*/
     margin-bottom: 0px; /*Jumbotrons預設有margin*/
-
+    background-repeat:no-repeat;
     
 }
 
@@ -150,9 +150,10 @@ section#section_future .feature {
 
 footer.jumbotron {
     text-align: center;
-    background-image: url(../img/footer.png);
-    background-position: right;
+    background-image: url(../img/52112_VLUtRwbf.jpg);
+    background-position: bottom;
     background-size: cover;
+    background-repeat:no-repeat;
     background-attachment: fixed;
     margin-bottom: 0px;
 }
