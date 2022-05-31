@@ -39,7 +39,7 @@ nav.fixed-top.navbar-top a:hover {
 
 header.jumbotron {
     text-align: center;/*文字置中*/
-    background-image: url(../img/banner.png);
+    background-image: url(../img/Nokia-WING-IoT.jpg);
     background-position:center;
     background-size: cover; /*左右填滿*/
     background-attachment: fixed; /*固定背景*/
@@ -150,8 +150,8 @@ section#section_future .feature {
 
 footer.jumbotron {
     text-align: center;
-    background-image: url(../img/footer.png);
-    background-position: right;
+    background-image: url(../img/Nokia-WING-IoT.jpg);
+    background-position: bottom;
     background-size: cover;
     background-attachment: fixed;
     margin-bottom: 0px;
